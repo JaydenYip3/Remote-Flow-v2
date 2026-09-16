@@ -1,0 +1,6 @@
+bin/
+.env
+.env.local
+
+# macOS
+.DS_Store
